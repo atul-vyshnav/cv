@@ -1,0 +1,19 @@
+body {
+  background-color: #FFF9F9;
+  font-family: system-ui;
+  /* font-variant: small-caps slashed-zero; */
+  align-items: center;
+}
+h3 {
+  color: #BAABDA;
+}
+hr {
+  background-color: none;
+  border-style: dotted none none;
+  height: 0px;
+  width: 10%;
+  border-width: 5px;
+  border-color: #D77FA1;
+
+
+}
