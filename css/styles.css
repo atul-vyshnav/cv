@@ -7,6 +7,11 @@ body {
 h3 {
   color: #BAABDA;
 }
+
+h1 {
+  color: purple;
+}
+
 hr {
   background-color: none;
   border-style: dotted none none;
